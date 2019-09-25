@@ -1,1 +1,18 @@
-/* You can add global styles to this file, and also import other style files */
+
+.shadow{
+    box-shadow: 0 8px 6px -6px black;
+}
+.wydth{
+    width:1200px !important;
+    margin:auto;
+}
+.jumbotron{
+    background-color: #fff !important;
+}
+
+h1,h2,h3,h4{
+    color:rgba(0, 56, 199, 0.9);
+}
+fa-icon{
+    font-size: 15px;
+}

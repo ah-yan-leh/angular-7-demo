@@ -25,3 +25,17 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+https://valor-software.com/ngx-bootstrap/#/documentation
+
+npm install @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/angular-fontawesome@0.3.0
+
+https://github.com/FortAwesome/angular-fontawesome
+https://fontawesome.com/icons?d=gallery&m=free
+
+ng generate module app-routing --flat --module=app
+
+models are .ts files you can manually create
+https://stackoverflow.com/questions/53003483/why-no-angular-cli-generate-command-for-model-in-angular-project
+
+https://www.codeply.com/go/FeYASlofiC/bootstrap-4-center-content

@@ -1,0 +1,107 @@
+[
+    {
+      "id": 1,
+      "symptom": "Peeling Skin Syndrome",
+      "summary": "It's like having lifelong sunburn, where you can pull up a sheet of the top layer of skin. It doesn't hurt, but your skin often itches and can get red, dry, thick, and blistered. Because it's genetic, this usually starts happening when you're quite young. Petroleum jelly, to soften skin, and medicines you put on warts and calluses might make it feel and look better, but other typical skin treatments don't help and could even be harmful.",
+      "image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/guide_to_unusual_skin_conditions_slideshow/1800ss_eksfoliaciya_rm_cutaneous_peeling_skin_syndrome.jpg",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/ss/slideshow-uncommon-skin-conditions"
+    },
+    {
+      "id": 2,
+      "symptom": "Chromhidrosis",
+      "summary": "Yellow, green, blue, brown, or black sweat? Yes! People with this condition have sweat glands that make too much lipofuscin (a pigment in human cells) or the lipofuscin is chemically different than normal. Colored sweat can appear in underarms, on the face, or in the dark circle around nipples. To stop it, you need to shut down the sweat glands. That could mean you apply a cream every day or get regular Botox shots.",
+      "image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/guide_to_unusual_skin_conditions_slideshow/1800ss_mcgraw_hill_rf_chromhidrosis.jpg",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/ss/slideshow-uncommon-skin-conditions"
+    },
+    {
+      "id": 3,
+      "symptom": "Necrobiosis Lipoidica",
+      "summary": "Small, raised, red spots -- usually on your shins -- slowly grow into larger, flatter patches. These have a red border and a shiny, yellowish center, and they probably won't go away. The skin is thin and may split easily to form slow-healing sores called ulcers that might lead to skin cancer. People who get this condition likely have diabetes or will have it soon. Your doctor may wait on treatment if you don't have ulcers yet.",
+      "image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/guide_to_unusual_skin_conditions_slideshow/1800ss_medical_images_rm_necrobiosis_lipoidica_sore_on_leg.jpg",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/ss/slideshow-uncommon-skin-conditions"
+    },
+    {
+      "id": 4,
+      "symptom": "Epidermolytic Ichthyosis",
+      "summary": "Babies with the disease may be born with red, blistered, raw-looking skin that's thick in places, injures easily, and gets inflamed. Thick, hard scales form in rows on the skin -- especially around creases of joints. A genetic test can tell for sure if you have the disease, which gets its name from the Greek word for \"fish.\" Treatment isn't easy. Removing the scales often leaves skin fragile and prone to infection.",
+      "image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/guide_to_unusual_skin_conditions_slideshow/1800ss_dr_kenneth_e_greer_rm_epidermolytic_ichthyosis.jpg",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/ss/slideshow-uncommon-skin-conditions"
+    },
+    {
+      "id": 5,
+      "symptom": "Morgellons Disease",
+      "summary": "It feels like something is crawling on, stinging, or biting you. Some people report tiny fibers on their skin and problems with memory, mood, and concentration. Though certain studies suggest a possible link to infection, many scientists believe it's a mental health issue. You might have the mistaken belief that you're \"infested.\" Your doctor will try to rule out other causes and may suggest therapy.",
+      "image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/guide_to_unusual_skin_conditions_slideshow/1800ss_beforeitsnews_rf_morgellons_disease.jpg",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/ss/slideshow-uncommon-skin-conditions"
+    },
+    {
+      "id": 6,
+      "symptom": "Erythropoietic Protoporphyria",
+      "summary": "People with this have changes (mutations) in their genes that make it hard for their body to process a light-sensitive chemical called protoporphyrin. It builds up in the top layers of skin and reacts to light from the sun as well as other sources. Your skin might tingle, itch, or burn. If you don't cover up, it may blister and hurt intensely. Drugs, a type of vitamin A, and iron might help.",
+      "image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/guide_to_unusual_skin_conditions_slideshow/1800ss_wikipedia_rf_erythropoietic_protoporphyria.jpg",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/ss/slideshow-uncommon-skin-conditions"
+    },
+    {
+      "id": 7,
+      "symptom": "Fish Scale Disease",
+      "summary": "A slowdown of your skin's natural shedding causes a buildup of a protein called keratin that leads to dry skin, a flaky scalp, small fish-like scales (especially on your elbows and lower legs), and deep, painful cracks. Your skin may get darker, too. Ichthyosis vulgaris may be passed down from a parent or be related to an illness like cancer, thyroid disease, or HIV or AIDS. Living in a warm, humid place tends to make it better.",
+      "image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/guide_to_unusual_skin_conditions_slideshow/1800ss_medical_images_rm_fish_scale_disease.jpg",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/ss/slideshow-uncommon-skin-conditions"
+    },
+    {
+      "id": 8,
+      "symptom": "Eruptive Xanthomas",
+      "summary": "It can be alarming when these uneven, wart-like, waxy bumps suddenly show up on your skin, but they're not an infection, and they're not contagious. They're fatty deposits of cholesterol caused by very high levels of triglycerides, a type of fat in your blood. The bumps will usually clear up a few weeks after you start taking medicine and change your diet.",
+      "image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/guide_to_unusual_skin_conditions_slideshow/1800ss_medical_images_rm_eruptive_xanthomas.jpg",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/ss/slideshow-uncommon-skin-conditions"
+    },
+    {
+      "id": 9,
+      "symptom": "Leprosy",
+      "summary": "People who aren't naturally immune (most of us are) might get it from someone else -- or from handling an armadillo. Symptoms can take years to show up. Look for a rash or reddish spots, with swollen skin, and numbness in that spot or in a finger or toe. Your eyes could get very sensitive to light. Antibiotics usually cure it, and you should recover fully if you don't wait too long to treat it.",
+      "image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/guide_to_unusual_skin_conditions_slideshow/1800ss_science_source_rm_leprosy.jpg",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/ss/slideshow-uncommon-skin-conditions"
+    },
+    {
+      "id": 10,
+      "symptom": "Blau Syndrome",
+      "summary": "It usually starts before age 4 with a scaly rash on your trunk, arms, or legs, sometimes with hard bumps you can feel under your skin. This genetic disease makes your immune system overreact with too much inflammation. Many people with it also have arthritis and eye problems, and some get kidney disease. If neither of your parents have it, you may have a version called early-onset sarcoidosis.",
+      "image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/guide_to_unusual_skin_conditions_slideshow/1800ss_wikipedia_rf_blau_syndrome.jpg",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/ss/slideshow-uncommon-skin-conditions"
+    },
+    {
+      "id": 11,
+      "symptom": "Argyria",
+      "summary": "The bluish-gray skin color comes from tiny bits of silver that build up in your tissues. Colloidal silver, which some people take as a dietary supplement, can cause it, and it's usually permanent. Sunshine might make things worse. There's no evidence colloidal silver has any health benefits, and it may also slow absorption of medicines like thyroxine and antibiotics.",
+      "image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/guide_to_unusual_skin_conditions_slideshow/1800ss_medical_images_rm_argyria_hand_comparison.jpg",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/ss/slideshow-uncommon-skin-conditions"
+    },
+    {
+      "id": 12,
+      "symptom": "Xeroderma Pigmentosum (XP)",
+      "summary": "Inherited genes stop your body from fixing cells damaged by ultraviolet (UV) rays, even from lightbulbs. That makes you about 10,000 times more likely to get skin cancer, and most people with XP have it by age 10. Early signs are freckles before age 2; and dark spots, a serious sunburn, and very dry skin after being in the sun. For protection, you have to cover every bit of skin (with sunscreen underneath) and wear UV-blocking goggles.",
+      "image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/guide_to_unusual_skin_conditions_slideshow/1800ss_mcgraw_hill_rm_xeroderma_pigmentosum.jpg",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/ss/slideshow-uncommon-skin-conditions"
+    },
+    {
+      "id": 13,
+      "symptom": "Acanthosis Nigricans",
+      "summary": "You may try to scrub off these dark, thick, velvety patches of skin, especially if they itch and smell bad, too. But it won't work. Elbows, knees, knuckles, and armpits are typical places to get them. The condition won't hurt you, but it can be a sign of other problems like obesity, diabetes, hormone problems, a drug reaction, or even cancer. Talk to your doctor.",
+      "image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/guide_to_unusual_skin_conditions_slideshow/1800ss_medical_images_rm_acanthosis_nigricans.jpg",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/ss/slideshow-uncommon-skin-conditions"
+    },
+    {
+      "id": 14,
+      "symptom": "Elastoderma",
+      "summary": "In some spots, your body may make too much elastin, a protein that gives skin strength and flexibility. Your skin won't spring back when stretched, and it sags and folds. It's not clear why this happens. You usually see it in the neck, arms, or legs -- especially around elbows and knees. Your doctor may cut away the loose skin, but the condition often returns.",
+      "image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/guide_to_unusual_skin_conditions_slideshow/1800ss_jama_network_rf_elastoderma.jpg",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/ss/slideshow-uncommon-skin-conditions"
+    },
+    {
+      "id": 15,
+      "symptom": "Primary Cutaneous Amyloidosis",
+      "summary": "This group of conditions is related by an abnormal protein called amyloid that builds up in your skin. Lichen amyloidosis is typically on your shins, thighs, feet, and forearms. It's itchy and looks like reddish-brown raised spots. Macular amyloidosis usually shows up between your shoulder blades or on your chest, with flat, dusty-colored patches. Nodular amyloidosis may appear on your body and face as firm, reddish bumps that don't itch.",
+      "image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/guide_to_unusual_skin_conditions_slideshow/1800ss_medical_images_rm_cutaneous_amyloidosis.jpg",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/ss/slideshow-uncommon-skin-conditions"
+    }
+  ]

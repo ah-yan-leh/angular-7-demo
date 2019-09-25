@@ -1,0 +1,17 @@
+<div class="container">    
+    <div class="row">
+      <div class="card col-sm-4" 
+      *ngFor="let topic of commontopics">
+        <img class="card-img-top" [src]="topic.image" alt="Card image" width="500" height="auto">
+        <div class="card-body">
+          <h4 class="card-title">          
+            <a routerLink="/common-skin-conditions/{{topic.id}}">
+                {{topic.symptom}}
+            </a></h4>
+          <p class="card-text"> {{topic.summary}}  </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+

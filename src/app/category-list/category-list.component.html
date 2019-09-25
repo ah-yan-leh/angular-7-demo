@@ -1,0 +1,29 @@
+<div class="container">
+
+        <div class="text-center">
+                <h2>Suggested Products </h2>
+                <h4>Find the best products for your needs</h4>
+            </div>
+    <div class="row">
+        <div class="col-4 mx-auto" 
+        *ngFor="let category of categories">
+            <div class="card card-body mb-2">
+              
+          <figure class="itembox text-center">
+            <span class="icon-wrap icon-lg white">
+                <fa-icon [icon]="['fas',category.fontAwesome]" style="color:pink"></fa-icon></span>
+            <figcaption class="text-wrap">
+                 
+            <h4 class="title">         
+                <a routerLink="/product-type/{{category.id}}">
+                  {{category.title}}
+              </a>
+            </h4>
+            <p>  {{category.description}} </p>
+            </figcaption>
+          </figure> <!-- iconbox // -->
+        
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,35 @@
+<div class="container">    
+  <div class="row">
+      <div class="col-4 mx-auto" 
+      *ngFor="let product of products">
+          <div class="card card-body mb-2">
+            
+            
+          <img src="{{product.productImg}}" alt="{{product.productName}}"  class="my-5">
+          
+          <p class="title">         
+            <a routerLink="/product-list-detail/{{product.id}}">
+              {{product.productName}}
+          </a>
+        </p>
+        <p class="text-wrap">
+          <fa-icon [icon]="['fas','star']"></fa-icon>
+          <fa-icon [icon]="['fas','star']"></fa-icon>
+          <fa-icon [icon]="['fas','star']"></fa-icon>
+          <fa-icon [icon]="['fas','star']"></fa-icon>
+          <fa-icon [icon]="['fas','star-half']"></fa-icon>
+          {{product.productRating}}
+        </p>
+        <p class="price">{{product.productPrice}} (<span class="strike">{{product.productPrice}}</span>)</p>
+        <figure class="">
+          
+          <figcaption class="text-wrap">
+               
+                      <p><a href="/product-list-detail/{{product.id}}" class="btn btn-outline-primary btn-block">Get more info</a></p>
+          </figcaption>
+        </figure> <!-- iconbox // -->
+      
+          </div>
+      </div>
+  </div>
+</div>

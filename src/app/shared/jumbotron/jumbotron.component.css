@@ -1,0 +1,19 @@
+
+img.img-fluid {
+    border-radius: 50%;
+  }
+
+  .container {
+    margin-top: 30px;
+    background-color: #cddbe6!important;
+    width:100%;
+}
+
+.display-3{
+  font-size: 40px;
+}
+.jumbotron{
+  
+  width:100% !important;
+  height: 675px;
+}
